@@ -1,5 +1,32 @@
+## About me
+
 ### Hi there 👋
 
+My name is Ena Burić. I am a passionate junior developer with a love for frontend development and automated testing.
+I'm currently finishing my education in Informatics. 
+I'm also learning React and I love working as a QA tester using Java language with Selenium Webdriver and Maven. I love learning new skills and being a part of a great team making new user friendly apps is my dream.
+
+### Skills
+
+  - Java Selenium Webdrives automations, Maven
+  - Cucumber and Gherkin
+  - Javascript basics (React)
+  - HTML/CSS (Sass)
+  - Typescript
+  - Figma
+
+### Experience
+  - 8 months as QA junior engineer working on both manual and automated testing using Selenium and Java.
+
+### Interests and Hobbies
+  - Outside of coding, I enjoy hiking, experimenting with new recipes in the kitchen and dancing.
+
+### Languages
+  - Mother tongue : Croatian
+  - Second language : English (C1)
+  - German B2
+
+    
 <!--
 **EnaBur/EnaBur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
