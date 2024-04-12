@@ -26,6 +26,9 @@ I'm also learning React and I love working as a QA tester using Java language wi
   - Second language : English (C1)
   - German B2
 
+###Frontend Mentor projects (slicing, HTML/CSS):
+  - https://enabur.github.io/FrontendMentor-results-summaryProject/
+
     
 <!--
 **EnaBur/EnaBur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
