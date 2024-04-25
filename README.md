@@ -12,7 +12,7 @@ I'm also learning React and I love working as a QA tester using Java language wi
   - Cucumber and Gherkin
   - Javascript basics (React)
   - HTML/CSS (Sass)
-  - Typescript
+  - Tailwind
   - Figma
 
 ### Experience
