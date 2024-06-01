@@ -27,7 +27,7 @@ I'm also learning React and I love working as a QA tester using Java language wi
   - German B2
 
 ### Freelance
-  - https://enabur.github.io/adriart/ 
+  - https://www.villa-adriart.com
 
 ###Frontend Mentor projects (slicing, HTML/CSS):
   - https://enabur.github.io/FrontendMentor-results-summaryProject/
