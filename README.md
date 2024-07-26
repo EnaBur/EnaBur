@@ -31,6 +31,7 @@ I'm also learning React and I love working as a QA tester using Java language wi
 
 ###Frontend Mentor projects (slicing, HTML/CSS):
   - https://enabur.github.io/FrontendMentor-results-summaryProject/
+  - https://enabur.github.io/social-links/
 
     
 <!--
